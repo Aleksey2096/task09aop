@@ -54,7 +54,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                by.academy.task05daoAnnotation.controller.Runner
+                                by.academy.task09aop.controller.App
                             </mainClass>
                         </manifest>
                     </archive>

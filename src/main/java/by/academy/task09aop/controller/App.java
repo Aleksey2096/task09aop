@@ -1,5 +1,8 @@
-package by.academy.task09aop.service;
+package by.academy.task09aop.controller;
 
+import by.academy.task09aop.service.MessageInterceptor;
+import by.academy.task09aop.service.MessageService;
+import by.academy.task09aop.service.MessageServiceImpl;
 import org.springframework.aop.framework.ProxyFactory;
 
 public class App {
